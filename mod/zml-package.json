@@ -1,0 +1,4 @@
+{
+  "id": "disconnect-meme",
+  "files": ["mod.ini", "config.ini", "icon.png", "DisconnectMeme.dll", "MINHOOK-LICENSE.txt"]
+}
